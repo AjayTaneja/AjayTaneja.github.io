@@ -1,57 +1,57 @@
-# Mobile app links 
+# Mobile app links
 
-## Mobile app builder 
+### Mobile app builder
 - Nautica PrestaShop Mobile App
-<br /> https://play.google.com/store/apps/details?id=com.velsof.prestashopgenericapp
+<br /> <a href="https://play.google.com/store/apps/details?id=com.velsof.prestashopgenericapp">https://play.google.com/store/apps/details?id=com.velsof.prestashopgenericapp</a>
 
 - Nautica OpenCart Mobile App
-<br /> https://play.google.com/store/apps/details?id=com.velsof.genericapp
-  
+<br /> <a href="https://play.google.com/store/apps/details?id=com.velsof.genericapp">https://play.google.com/store/apps/details?id=com.velsof.genericapp</a>
+
 - Nautica Magento2 Mobile App
-<br /> https://play.google.com/store/apps/details?id=com.velsof.magento2genericapp
+<br /> <a href="https://play.google.com/store/apps/details?id=com.velsof.magento2genericapp">https://play.google.com/store/apps/details?id=com.velsof.magento2genericapp</a>
 
 - Nautica Mobile App for WooCommerce
-<br /> https://play.google.com/store/apps/details?id=com.velsof.woocommercegenericapp
+<br /> <a href="https://play.google.com/store/apps/details?id=com.velsof.woocommercegenericapp">https://play.google.com/store/apps/details?id=com.velsof.woocommercegenericapp</a>
 
-## Club Duck Hunt
-- Currently under development. 
+### Club Duck Hunt
+- Currently under development.
 
-## Delivery boy app builder 
+### Delivery boy app builder
 - PrestaShop Delivery Boy App
-<br /> https://play.google.com/store/apps/details?id=com.velsof.psdeliveryboyapp
+<br /> <a href="https://play.google.com/store/apps/details?id=com.velsof.psdeliveryboyapp">https://play.google.com/store/apps/details?id=com.velsof.psdeliveryboyapp</a>
 
 - OpenCart Delivery Boy App
-<br /> https://play.google.com/store/apps/details?id=com.velsof.ocdeliveryboyapp
-  
-## PickPack+
-- Not available on Play Store. Direct sharing of APK with the client. 
-  
-## HBYC
-- https://play.google.com/store/apps/details?id=com.sahiyasangi.hbyc
+<br /> <a href="https://play.google.com/store/apps/details?id=com.velsof.ocdeliveryboyapp">https://play.google.com/store/apps/details?id=com.velsof.ocdeliveryboyapp</a>
 
-## SADL
-- Currently under review by the client. 
+### PickPack+
+- Not available on Play Store. Direct sharing of APK with the client.
 
-## Supportive Supervision 2.0
-- https://play.google.com/store/apps/details?id=com.nccmis.dataentry
+### HBYC
+- <a href="https://play.google.com/store/apps/details?id=com.sahiyasangi.hbyc">https://play.google.com/store/apps/details?id=com.sahiyasangi.hbyc</a>
 
-## S4i Data Visualization
-- https://play.google.com/store/apps/details?id=com.nccmis.datavisualization
+### SADL
+- Currently under review by the client.
 
-## EasyODK
-- https://play.google.com/store/apps/details?id=com.velsof.easyodk
+### Supportive Supervision 2.0
+- <a href="https://play.google.com/store/apps/details?id=com.nccmis.dataentry">https://play.google.com/store/apps/details?id=com.nccmis.dataentry</a>
 
-## Darveys
-- https://play.google.com/store/apps/details?id=com.darveys.app
+### S4i Data Visualization
+- <a href="https://play.google.com/store/apps/details?id=com.nccmis.datavisualization">https://play.google.com/store/apps/details?id=com.nccmis.datavisualization</a>
 
-## Barcode to Sheet
-- https://play.google.com/store/apps/details?id=com.vel.barcodetosheet
+### EasyODK
+- <a href="https://play.google.com/store/apps/details?id=com.velsof.easyodk">https://play.google.com/store/apps/details?id=com.velsof.easyodk</a>
 
-## CDMS
-- https://play.google.com/store/apps/details?id=com.protocol.cdms
+### Darveys
+- <a href="https://play.google.com/store/apps/details?id=com.darveys.app">https://play.google.com/store/apps/details?id=com.darveys.app</a>
 
-## VDMS
-- https://play.google.com/store/apps/details?id=com.protocol.vdms
+### Barcode to Sheet
+- <a href="https://play.google.com/store/apps/details?id=com.vel.barcodetosheet">https://play.google.com/store/apps/details?id=com.vel.barcodetosheet</a>
 
-## OOSC Survey
-- https://play.google.com/store/apps/details?id=oosc.bihar.com.bihargovt
+### CDMS
+- <a href="https://play.google.com/store/apps/details?id=com.protocol.cdms">https://play.google.com/store/apps/details?id=com.protocol.cdms</a>
+
+### VDMS
+- <a href="https://play.google.com/store/apps/details?id=com.protocol.vdms">https://play.google.com/store/apps/details?id=com.protocol.vdms</a>
+
+### OOSC Survey
+- <a href="https://play.google.com/store/apps/details?id=oosc.bihar.com.bihargovt">https://play.google.com/store/apps/details?id=oosc.bihar.com.bihargovt</a>
