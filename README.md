@@ -14,7 +14,7 @@
 <br /> <a href="https://play.google.com/store/apps/details?id=com.velsof.woocommercegenericapp">https://play.google.com/store/apps/details?id=com.velsof.woocommercegenericapp</a>
 
 ### Club Duck Hunt
-- Currently under development.
+- <a href="https://play.google.com/store/apps/details?id=com.toutpourlahutte.clubduckhunter">https://play.google.com/store/apps/details?id=com.toutpourlahutte.clubduckhunter</a>
 
 ### Delivery boy app builder
 - PrestaShop Delivery Boy App
@@ -30,7 +30,7 @@
 - <a href="https://play.google.com/store/apps/details?id=com.sahiyasangi.hbyc">https://play.google.com/store/apps/details?id=com.sahiyasangi.hbyc</a>
 
 ### SADL
-- Currently under review by the client.
+- Not available on Play Store. 
 
 ### Supportive Supervision 2.0
 - <a href="https://play.google.com/store/apps/details?id=com.nccmis.dataentry">https://play.google.com/store/apps/details?id=com.nccmis.dataentry</a>
