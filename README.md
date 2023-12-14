@@ -131,7 +131,7 @@
 - <a href="https://play.google.com/store/apps/details?id=oosc.bihar.com.bihargovt">https://play.google.com/store/apps/details?id=oosc.bihar.com.bihargovt</a>
 
 <p>
-<strong>About:</strong>
-* Android App for Bihar state govt for tracking the information of children and women about their education whether they are studying and upto what level. 
-* Once logged in, this app even works offline so that data collection in remote areas can be done without any hassle. 
+<strong>About:</strong><br />
+* Android App for Bihar state govt for tracking the information of children and women about their education whether they are studying and upto what level. <br />
+* Once logged in, this app even works offline so that data collection in remote areas can be done without any hassle. <br />
 </p>
