@@ -13,6 +13,10 @@
 - Nautica Mobile App for WooCommerce
 <br /> <a href="https://play.google.com/store/apps/details?id=com.velsof.woocommercegenericapp">https://play.google.com/store/apps/details?id=com.velsof.woocommercegenericapp</a>
 
+* eCommerce app creator for creating apps for clients having stores with Prestashop, Opencart, Magento and WooCommerce platforms.
+* Discussion with clients for their specific changes and implementing those custom changes as per their requirements.
+* Migrated the old codebase to AndroidX for supporting new features and building Android App Bundles. 
+
 ### Club Duck Hunt
 - <a href="https://play.google.com/store/apps/details?id=com.toutpourlahutte.clubduckhunter">https://play.google.com/store/apps/details?id=com.toutpourlahutte.clubduckhunter</a>
 
