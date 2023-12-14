@@ -14,9 +14,9 @@
 <br /> <a href="https://play.google.com/store/apps/details?id=com.velsof.woocommercegenericapp">https://play.google.com/store/apps/details?id=com.velsof.woocommercegenericapp</a>
 
 <p>
-* eCommerce app creator for creating apps for clients having stores with Prestashop, Opencart, Magento and WooCommerce platforms.
-* Discussion with clients for their specific changes and implementing those custom changes as per their requirements.
-* Migrated the old codebase to AndroidX for supporting new features and building Android App Bundles. 
+* eCommerce app creator for creating apps for clients having stores with Prestashop, Opencart, Magento and WooCommerce platforms. <br />
+* Discussion with clients for their specific changes and implementing those custom changes as per their requirements. <br />
+* Migrated the old codebase to AndroidX for supporting new features and building Android App Bundles.  <br />
 </p>
 
 ### Club Duck Hunt
